@@ -12,6 +12,6 @@ https://the-odds-api.com/
 
 ![ALT Lockpick Bot Logo](./images/step1.png)
 
-### Step2: Follow the menus for the desired odds
+### Step 2: Follow the menus for the desired odds
 
 ![ALT Lockpick Bot Logo](./images/step2.png)
